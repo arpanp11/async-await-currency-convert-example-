@@ -1,4 +1,4 @@
-//http://data.fixer.io/api/latest?access_key=93d6d5044e180882b1f52b7585c5cf93
+//http://data.fixer.io/api/latest?access_key=[your api key]
 
 const axios = require('axios');
 
